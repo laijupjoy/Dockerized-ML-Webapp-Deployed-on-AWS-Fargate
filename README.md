@@ -10,6 +10,11 @@ We don't have to worry about where will deploy containers, or how will manage an
 
 This project shows how to deploy a machine learning web application on AWS-Fargate.
  
+ ## Diagram shows deploy application on ECS using AWS Fargate.
+
+<p align="center">
+  <img src="images\diagram.png" alt="workflow"/>
+</p>
 
 ## Project Tasks:
 
